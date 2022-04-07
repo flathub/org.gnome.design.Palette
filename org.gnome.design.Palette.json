@@ -18,8 +18,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/World/design/palette.git",
-                    "tag": "2.0.1",
-                    "commit": "3af4acb834fc1220f59f9b594fe09ec31153d4b9"
+                    "tag": "2.0.2",
+                    "commit": "01ce37b3e262574ad7594b5e5b906b7aacd2ab81"
                 }
             ]
         }
