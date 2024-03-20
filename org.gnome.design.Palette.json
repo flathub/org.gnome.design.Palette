@@ -1,7 +1,7 @@
 {
     "id": "org.gnome.design.Palette",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "45",
+    "runtime-version": "46",
     "sdk": "org.gnome.Sdk",
     "command": "org.gnome.design.Palette",
     "finish-args": [
@@ -18,8 +18,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/World/design/palette.git",
-                    "tag": "2.0.2",
-                    "commit": "01ce37b3e262574ad7594b5e5b906b7aacd2ab81"
+                    "tag": "2.0.3",
+                    "commit": "392a5cbd5d296803d59ae93b7ac8e419000c56a9"
                 }
             ]
         }
